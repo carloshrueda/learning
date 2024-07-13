@@ -2,7 +2,7 @@
 
 * **Plataforma:** Udemy
 
-* **Última actualización: 4/2024**
+* **Última actualización:** 4/2024
 
 * **Fecha de inicio curso:** 11/07/2024
 
